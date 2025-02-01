@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=pratt12&color=blue)
 
 
 ## Connect with Me
