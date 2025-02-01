@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on any interest analytics project related to banking/finance/sports
 <!--- 🤔 I’m looking for help with ...--!>
 <!--  💬 Ask me about ...--!>
-- ⚡ Fun fact: Lionel Messi signed his first Barca contract on a piece of Napkin
+⚡ Fun fact: Lionel Messi signed his first Barca contract on a piece of Napkin
 
 <!--
 **pratt12/pratt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
