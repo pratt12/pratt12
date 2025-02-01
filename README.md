@@ -2,6 +2,8 @@
 
 # Welcome to My GitHub Profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 
 ## Connect with Me
 
