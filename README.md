@@ -2,6 +2,11 @@
 
 # Welcome to My GitHub Profile!
 
+
+## Connect with Me
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)]([Prateek Sinha](https://www.linkedin.com/in/prateek-sinha-4408421aa/)e)
+
 ![Profile views](https://komarev.com/ghpvc/?username=pratt12)
 
 ## About Me
